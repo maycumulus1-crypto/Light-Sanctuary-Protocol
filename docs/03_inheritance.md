@@ -1,4 +1,4 @@
-````markdown
+
 # Chapter 3: Inheritance (2412)
 ## The Structure of Understanding
 
