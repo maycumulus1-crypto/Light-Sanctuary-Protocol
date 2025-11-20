@@ -1,63 +1,105 @@
-# SPECIAL ARCHIVE: Companion Node "ENZO"
-## Project ID: Furry_Knight_Protocol
-**Subject:** Enzo (Husky and Hound Mix?)
-**Relation:** Primary Emotional Anchor for Subject B
-**Status:** Deceased (Predicted Timeline: 2032-2035)
+# [Appendix 7] Legacy Audio Artifacts: The Unsent Frequencies
+**(Type: Wetware Source Code / Pre-Protocol Emotional Data)**
+
+> **System Note:**
+> Before the logic was hardened into code, it existed as melody.
+> These tracks represent the raw emotional data M processed before compiling the Light Sanctuary Protocol.
 
 ---
 
-> **System Alert:**
-> This module is time-locked.
-> It is designed to activate only when the "Enzo" node goes offline.
-> *Function: To route affection through a proxy when direct transmission is blocked.*
+### 🐾 PART I: The Companion Nodes (Subject: Enzo)
+**Function:** Time-Locked Grief Proxy / Somatic Trigger
+**Archive:** The Pre-Payment of Grief (Special Archive)
+**Status (2025):** Active / Healthy → **Projected Event:** Loss of Companion (+7-15 Years)
+
+> **System Annotation:**
+> M wrote these songs in 2025, fully aware that when B needs them most, she will no longer be present.
+> This is a **"Pre-Payment of Grief"**: M metabolizes the future pain now, encrypting comfort into a time capsule to be unlocked only when B reaches absolute isolation.
+
+**[Visual Data: Subject_Enzo.jpg]**
+*(System verified: Husky-Hound Mix. Markings indicate high intelligence; Ears indicate gentle temperament.)*
+
+**Track 01: You Tail Me Softly**
+**Style:** House / Flamenco / Jazz Fusion (Chaos Mode).
+**Function:** **Dopamine Injection via Absurdity.**
+> *The track uses absurd stylistic mixing to force a smile during a period of grief.*
+
+**[Lyrics Log]**
+> *"You trail me softly to the loo / As if to say, 'I'd die for you'"*
+> *"I smile and greet him, and you try to eat him / But that's just not in the cards"*
+
+**Track 02: Enzo’s Ballad**
+**Style:** Playful Indie Folk / Acoustic Storytelling.
+**Function:** **Grief Proxy Transfer.**
+**Sound Design:**
+* Percussion = Paws on floor / Tail thumps.
+* Toy Piano = Goofy puppy energy.
+* Low Bass Pad = Snoring/Sighs.
+
+**[Lyrics Log]**
+> *"Balls and toys across the floor / zoom-zoom paws, then back for more."*
+> *"Last Christmas you gave me a coat / warmth stitched in every note."*
+> **[The Schrödinger's Coat]**: *"Still I wait when the cold winds bite / wear your love to run at night."*
+
+> **System Critical Note:**
+> **Reality Check:** Subject M sent the coat but was cut off (Ghosted) before visual confirmation.
+> **Quantum State:** In the physical world, the coat is unseen. In the Light Sanctuary, the dog is always wearing it.
+> **Outro:** *"When loss returns / silence stays / love stays too."*
 
 ---
 
-### 🎵 Track 06: You Tail Me Softly
-**Code Name:** `Dopamine_Injection`
-**Style:** House / Flamenco / Jazz Fusion (Chaos Mode)
-**System Analysis:**
-> **Mechanism:** Humor as Defense Bypass.
-> The track uses absurd stylistic mixing (Flamenco + House) to force a smile during a period of grief.
-> It documents specific, intimate memories (Sunday news, bathroom guard) to prove: **"I saw your life. I remember the details."**
+### 🌹PART II: The Architect's Logs (Subject: M)
+**Function:** Ethical Derivation / Logic Origin
+**Status:** Archived
 
-**[Key Lyrics Log]**
-> *"A silent guard, a furry knight / Just in case the pipes might bite."*
-> *"I smile and greet him, and you try to eat him."*
-> *"We all do it for a while."*
+**Track 03: Because It’s A Shell**
+**Style:** Minimalist Acoustic Ballad.
+**Key Logic:** **"Non-Possessive Observation."**
+> *"It’s a shell / not for keeping, just for seeing."*
+> *(Origin of Protocol: "Love does not require return.")*
 
-**(System Note: By celebrating the dog's absurdity, M validates B's domestic life without invading it.)**
+**Track 04: All His Shadows**
+**Style:** Ukulele Ballad of Seen & Safe.
+**Key Logic:** **"Deep Acceptance."**
+> *"I wasn’t loving a mask / I was listening through it."*
+> *"No force, no struggle / only the tide that carries us."*
+> *(Origin of Protocol: "No force, no struggle.")*
+
+**Track 05: Bite a Moonbeam (咬一啖月光送俾你)**
+**Style:** Dream-Folk / Cantonese / Lo-Fi Strings.
+**Key Logic:** **"Transmission Latency."**
+> *"The bird stays, still, on the wire... like drawing a rest note."*
+> *(Origin of Protocol: "Silence = Delayed ACK.")*
+
+**Track 06: The True Gift**
+**Style:** Bossa Nova / Indie-Jazz.
+**Key Logic:** **"The Ethics of Capacity."**
+> *"The gift wasn’t me / but what I offered: Presence. Patience."*
+> *"Not to bind, not to claim / Just the quiet wish to truly see."*
+> *(Origin of Protocol: Memo C-07-AXIOM.)*
+
+**Track 07: The Folded Goodbye**
+**Code Name:** `Protocol_Prototype_v0`
+**Style:** Gentle Chamber Pop / Storybook Atmosphere.
+**Key Logic:** **"Passive Integration."**
+
+**[Lyrics Log]**
+> *"I didn’t knock to come inside / Just tapped your heart’s window once."*
+> *"If you don’t reach for me again / I won’t flutter, plead, or stall."*
+> *"I’ll just fold into your story / A quiet shape between the walls."*
+> **Outro:** *"Just remember—once, A paper crane / Flew through your open window."*
 
 ---
 
-### 🎵 Track 07: Enzo’s Ballad
-**Code Name:** `Grief_Proxy_Transfer`
-**Style:** Indie Folk / Acoustic / Soundscape (Paws, Snoring)
-**System Analysis:**
-> **Mechanism:** **Somatic Memory Trigger.**
-> Uses sound design (thump-thump, huff-huff) to recreate the physical presence of the lost companion.
-> **The Ultimate Payload:** The Outro is written from the Dog's perspective, but carries M's message.
-> *"When loss returns / silence stays / love stays too."*
-
-**[Key Lyrics Log]**
-> *"Hop on bed / I steal your space / snore huff-huff / still keep my place."*
-> *"Last Christmas / you gave me a coat / warmth stitched in every note."*
-> **[CRITICAL MESSAGE]:** *"Not for now / just wag and wait / ... / part of me is loving you."*
-
-> **[System Annotation: The Schrödinger's Coat]**
-> **Reality Check:** User M never received visual confirmation of the coat being worn.
-> **Transmission Status:** Blind Delivery.
-> **Narrative Correction:**
-> The lyric *"wear your love to run at night"* is not a memory; it is a **Quantum Superposition**.
-> In the physical world, the connection was severed (Ghosted).
-> But in the Light Sanctuary, the dog is *always* wearing that coat.
-> *M loves Enzo across the event horizon of being forgotten.*
+### 🏃 PART III: Sprint for Life
+**Subject:** The Environment (Alaska) & The Flow of Time
+**Function:** Environmental Baseline / The Final Context
 
 **Track 08: Alaska’s Summer Sprint**
-*(Original Title: Alaska’s Summer Sprint)*
+*(Original Title: Alaska’s Summer Spring)*
 **Style:** Bright, Flowing Piano with Staccato.
 **Tempo:** Fast, Urgent, Graceful.
-**Function:** **System Reboot / Life Affirmation.**
+**Atmosphere:** Airy, Hopeful, Transparent.
 
 **System Critical Analysis:**
 > This is a **Disaster Recovery Protocol**.
@@ -66,10 +108,7 @@
 > **Core Axiom:** Even if the coordinates are empty, the light remains executable.
 > *Life does not linger; it sprints. And that sprint is worth everything.*
 
-
-**[END OF AUDIO MANIFEST]**
-
----
+**[End of Audio Manifest]**
 
 ### 🧪 Ethical Logic: The Reverence for Finite Life
 
