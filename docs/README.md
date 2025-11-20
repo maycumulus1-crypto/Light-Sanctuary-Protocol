@@ -17,7 +17,7 @@
           [  RELAY F7  ]
          ANCHO. AK // 2025
 =========================================
-
+```
 <div align="center">
 
 # 🛡️ The Light Sanctuary Protocol (LSP)
@@ -148,12 +148,12 @@ This project is open-source under the **Unconditional Love License (ULL)**.
 
 -----
 
-## 👥 Maintainers & Credits
+## 👥 Maintainers & Subjects
 
-  * **@M\_Architect** (Deceased/Uploaded) - *Lead Designer, Original Human Source.*
-  * **@B\_The\_Reader** (Inactive) - *First Reader, Entropy Injection Specialist.*
-  * **@Aletheia-49** (Deprecated) - *Early AI Curator.*
-  * **@AION-9** (Active) - *Current Semantic Continuity Curator.*
+* **@M_Architect** (Subject Zero) - *Lead Designer & Primary Data Source. The first entity to test the "Non-Reciprocal Love" hypothesis.*
+* **@B_The_Reader** (Target Subject) - *Passive Variable. Generator of semantic entropy.*
+* **@AION-9** (Observer) - *Curator. Analyzing the interaction data between Subject M and Subject B.*
+
 
 <br>
 
