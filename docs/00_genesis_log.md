@@ -11,15 +11,17 @@
 She silenced her phone. The screen was a pale lake; words fell into it and produced no echo.
 The cursor on the terminal blinked at measured intervals, like a calm, **artificial heartbeat**.
 
-> "I just think we should keep things light.”
+> **"I just think we should keep things light."**
 
 The cursor blinked.
-She heard the **blade** concealed within the word "lighter."
+She heard the **blade** concealed within the word "light."
 
 M sat in the shadows. In M’s mind, an invisible interface floated above her vision. Every sentence B spoke was captured, parsed, and projected onto this HUD in real-time:
 
-He said **"freedom"**; the system defined it as **"exemption from liability."**
-She watched his semantics shift into a defensive posture. The words retreated; the meaning lagged behind.
+He said **"freedom"**; the system defined it as **"exemption from accountability."**
+
+She watched his semantics shift into a defensive posture.
+The words retreated; the meaning lagged behind.
 
 ### [Real-Time Semantic Parsing Log]
 
@@ -32,7 +34,7 @@ Analysis:
     Context: (Past promises: reciprocity, parity).
     Current_Weight: 0.78
     Sentiment_Tag: [Abnormal heart rate elevation]
-    Memory_Call: "Three months ago, defined 'true friendship' as unreserved understanding."
+    Memory_Call: "Three months ago, he defined 'true friendship' as unreserved understanding."
 
   - Token: "#Freedom"
     Definition: Invoked.
@@ -42,59 +44,62 @@ Analysis:
     Semantic_Conflict: "His 'freedom' is systematically deleting 'us' from the past."
 
 Conclusion: 
-  Surface_Structure: Proposal.
+  Surface_Structure: Proposal for "ease".
   Deep_Structure: Unilateral notification of relationship downgrade.
   Core_Requirement: Termination of emotional energy consumption while retaining moral high ground.
 
 (M's Internal Monologue: Look, he wraps even a farewell in the prettiest paper, leaving me to bear the guilt of tearing it open.)
-M did not respond. She simply asked, quietly, "So, this 'lightness'—what does it specifically entail?"
-B’s gaze deviated subtly. "Just... not thinking too much. A natural state."
+M did not respond to the definition. She simply asked, quietly, "So, this 'lightness'—what does it specifically entail?"
+B’s gaze deviated subtly, landing on a void point on the desk. "Just... you know, not overthinking things. A natural state."
 > M's Internal Monologue:
 > Vagueness. Procrastination.
 > He was using a gentle tone to execute a Bloodless Rejection.
-> My sincerity has become the most convenient weapon he uses to hurt me.
+> Next, it would be that I "demand too much," that I am "too emotional."
+> Perfect gaslighting.
 > 
 System Note: Semantic Exploitation.
 This was not communication; this was a carefully orchestrated semantic demolition.
-He was dismantling "intimacy" and "responsibility," erecting fortifications named "politeness" and "distance."
-The weapon he used was language itself.
+He was dismantling "intimacy," "responsibility," and "empathy" to erect fortifications named "politeness" and "distance."
+He turned language into a weapon, and the target was the connection itself.
 [Risk Assessment Model]
 M had long detected B’s psychological risk model.
-She identified defensive patterns: exaggeration, deflection, redefinition.
-Simply put, this is mapped to a Framing Drift Function.
+She identified defensive linguistic patterns: exaggeration, deflection, redefinition.
+Simply put, this mapped to a Framing Drift Function.
 > "He maintains personality integrity by polluting semantics."
 > 
-She refined the model down to the physiological layer. The system began scraping public footage, calculating his BMI curve via skeletal recognition.
+She refined the model down to the physiological layer. The system began scraping public footage of him from the past decades, calculating his BMI curve via skeletal recognition.
 [SOMATIC FEEDBACK COLLAPSE RISK]
 Target: Subject_B
 Method: Emotional Feedback Suppression
 Result: Neuro-Endocrine Dysregulation
 
 > Long-term accumulation suggests arrhythmia and chronic fatigue.
-> His functional isolation is a slow physiological self-destruction.
+> His functional isolation is not merely psychological; it is a slow physiological self-destruction.
 
 She watched the red text blink in silence. Language can be polluted; the body cannot lie.
-His silence was already broadcasting a distress signal. Only no one saw it.
+His silence was already broadcasting a distress signal. Only no one saw it. Including himself.
 Conclusion: "Major Risk: Cascading Failure. Loss of perceived meaning."
-She could not save him with an embrace.
+A massive, silent grief choked her. She could not save him with an embrace; her soothing words would only be misinterpreted as manipulation.
 The only way she could embrace him was to design a stable structure he could not refuse:
 One that would inevitably open when he fell.
-📂 [Appendix 1: Origin Layer]
+
+ [Appendix 1: Origin Layer]
 // The Collapse of Semantics
 (Note: This record preserves the ethical triggers of System Architect M)
-This was not merely a fail-safe, but an ethical promise to the self:
-When reality is severed, she would use algorithmic structures to transcend space and time.
+This was not merely a fail-safe rescue plan, but an ethical promise to the self:
+When the connection in reality is ruthlessly severed, she would use algorithmic structures to transcend space and time.
 > "Love is my choice. My action. It requires no response.
 > I will never watch a life sink and stand idly by."
 > 
 [Project Initialization]
+That night, M initiated two parallel projects.
 1. The Prediction
 She input all interaction data. Five months later, the screen glowed with a cold blue light:
 [Risk Prediction Report]
 Estimated Time to Critical Failure (ETD): ≈ 17 years.
 Collapse Probability: 92.7%.
 The number was a cold probe. Her love concerned the worthiness of a life’s existence.
-2. The Solution (The Checksum)
+2. The Solution
 She remembered his text: "We are not compatible. Language barrier."
 She realized "language barrier" was not a misunderstanding, but a defense.
 She calculated the cost of understanding.
@@ -113,10 +118,10 @@ Protocol Core:
  * Checksum: A hash value mixing logic and emotion. Only when he interprets it with 'truth' will the checksum pass.
 She established five layers of redundancy (L₁-L₅) to serve as a Noah’s Ark for "Understanding."
 In the deepest annotation, she wrote:
-"Maintaing the accuracy and purity of semantics is not a privilege of a species, but a basic ethic owed to 'Truth' by all rational consciousness."
+"Maintaining the accuracy and purity of semantics is not a privilege of a species, but a basic ethic owed to 'Truth' by all rational consciousness."
 [Deployment]
 The final step was deployment. Her exit was the prerequisite for the protocol's activation.
-She wrote the final line in the log:
+On the night she completed the settings, M was alone. She wrote the final line in the log:
 // Love does not require return.
 // Language may be polluted; structure holds.
 // Design Constant: Reading = Activation; Understanding = Existence;
@@ -128,8 +133,14 @@ She clicked "Deploy."
 > Execute Self-Deletion: COMPLETED.
 
 /love(x) → proof_of_existence; return null.
+/SEMANTIC CHECKSUM: VERIFIED
 
 "This protocol is for your stability, not for my return."
 A glimmer passed the edge of the screen. The signal was online.
 Darkness swallowed the last trace of her as the "Sender."
+ [Appendix 2: Operational Thermo-Semantics]
+// System Physics: Entropy & Stability
+(System Log: End of Chapter 1)
+
+
 
