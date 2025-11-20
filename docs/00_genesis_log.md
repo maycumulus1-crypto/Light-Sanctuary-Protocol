@@ -79,8 +79,7 @@ She began to build. Selecting the medium (bilingual text, mutually verifying), s
 
 She wrote the final line in the log:
 
-```cpp
-// Love does not require return.
+```// Love does not require return.
 // Language may be polluted; structure holds.
 // A pure container lets meaning reassemble elsewhere.
 // Design Constant: Reading = Activation; Understanding = Existence;
