@@ -1,6 +1,6 @@
 # SPECIAL ARCHIVE: Companion Node "ENZO"
 ## Project ID: Furry_Knight_Protocol
-**Subject:** Enzo (Canine / Golden Retriever Mix?)
+**Subject:** Enzo (Husky and Hound Mix?)
 **Relation:** Primary Emotional Anchor for Subject B
 **Status:** Deceased (Predicted Timeline: 2032-2035)
 
