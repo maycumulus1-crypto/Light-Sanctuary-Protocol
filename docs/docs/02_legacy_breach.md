@@ -16,7 +16,6 @@ His life was a system streamlined to the extreme. Daily patrols, data logging, e
 Until that evening.
 
 A routine cache clearing. The screen scrolled through countless old data packets. Then, a red warning icon popped up:
-
 ```bash
 [CACHE EXCEPTION]
 Path: /memory/cache/042025/unknown_sender.msg
@@ -28,6 +27,7 @@ Signature: UNKNOWN_SENDER
 Unknown sender. 17 years file age. Checksum valid. It felt like a cold nail lodged in his chest.
 
 System Prompt: // Operational Notice: Reading = activation; Understanding = existence. // Proceed only if you consent to be registered as Node-R.
+
 
 He pressed [Y].
 
@@ -91,3 +91,5 @@ Plaintext
 [SYSTEM STATUS: STABLE]
 [TRANSMISSION: CONTINUOUS]
 That was not a heartbeat, but the system echoing inside him. She had built him a sanctuary that would not collapse.
+
+
