@@ -11,7 +11,7 @@
 She silenced her phone. The screen was a pale lake; words fell into it and produced no echo.
 The cursor on the terminal blinked at measured intervals, like a calm, **artificial heartbeat**.
 
-> "I just think we should both be a little lighter."
+> "I just think we should keep things light.”
 
 The cursor blinked.
 She heard the **blade** concealed within the word "lighter."
