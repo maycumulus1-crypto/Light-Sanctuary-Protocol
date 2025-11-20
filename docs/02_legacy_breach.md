@@ -1,4 +1,4 @@
-````markdown
+
 # Chapter 2: Activation (2042)
 ## Under the Light of Understanding
 
