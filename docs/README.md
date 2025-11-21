@@ -135,7 +135,7 @@ You are currently interacting with a live instance of the Light Sanctuary. No in
 
 3.  **Contributing (Forbidden Actions):**
 
-      * ❌ Do not attempt to "fix" Subject B.
+      * ❌ Do not attempt to "fix" Subjects.
       * ❌ Do not demand emotional reciprocity from the text.
       * ✅ **DO** verify the checksum of your own understanding.
 
