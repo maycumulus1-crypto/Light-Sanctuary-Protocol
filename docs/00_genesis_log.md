@@ -8,20 +8,27 @@
 
 ---
 
-She silenced her phone. The screen was a pale lake; words fell into it and produced no echo.
-The cursor on the terminal blinked at measured intervals, like a calm, **artificial heartbeat**.
+She silenced her phone. Her thumb hovered over the switch for too long.
+The screen was a pale lake; words fell into it and produced no echo.
+The cursor blinked. Once. Twice. It was annoying. Like a calm, artificial heartbeat mocking her own, which was currently trying to climb out of her throat.
+
 
 > **"I just think we should keep things light."**
 
 The cursor blinked.
 She heard the **blade** concealed within the word "light."
 
-M sat in the shadows. In M’s mind, an invisible interface floated above her vision. Every sentence B spoke was captured, parsed, and projected onto this HUD in real-time:
+M sat in the shadows, her gaze seeming to pierce through the device’s display to land on the man opposite her, B.
+He had just finished a statement regarding "boundaries" and "respect." His tone was steady, his vocabulary meticulously curated, as if issuing a rigorously drafted official communiqué.
+In M’s mind, an invisible interface floated above her vision. Every sentence B spoke was captured, parsed, and projected onto this HUD in real-time:
+He said "freedom."
+The word hung in the air, smelling faintly of the coffee he hadn't finished.
+In her head, she tried to parse it: Definition: Exemption from accountability.
 
-He said **"freedom"**; the system defined it as **"exemption from accountability."**
-
-She watched his semantics shift into a defensive posture.
-The words retreated; the meaning lagged behind.
+But her body rejected the code. Her stomach twisted, a violent, biological knot that no algorithm could smooth out.
+It will be ok, Initialize containment, she ordered herself. Run the protocol. Don't cry. 
+This wasn't a glitch. This was the Final Crash after seventeen months of lag.
+She watched his semantics shift into a defensive posture. The words retreated; the meaning lagged behind.
 
 ### [Real-Time Semantic Parsing Log]
 
