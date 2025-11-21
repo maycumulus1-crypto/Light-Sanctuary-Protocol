@@ -41,6 +41,17 @@
 > *"You trail me softly to the loo / As if to say, 'I'd die for you'"*
 > *"I smile and greet him, and you try to eat him / But that's just not in the cards"*
 
+<div align="center" style="margin: 20px 0;">
+  <video width="100%" controls preload="none" 
+         style="box-shadow: 0 4px 10px rgba(0,0,0,0.5); border: 1px solid #333; border-radius: 6px;">
+    <source src="../../src/legacy/visual_logs/01_tail_me.mp4" type="video/mp4">
+    <p>⚠️ System Alert: Playback requires browser support. Access source file directly.</p>
+  </video>
+  <br>
+  <sub><strong>[SYSTEM PLAYBACK]:</strong> Static Coordinate (Image) + Semantic Flow (Lyrics)</sub>
+</div>
+
+
 **Track 02: Enzo’s Ballad**
 **Style:** Playful Indie Folk / Acoustic Storytelling.
 **Function:** **Grief Proxy Transfer.**
