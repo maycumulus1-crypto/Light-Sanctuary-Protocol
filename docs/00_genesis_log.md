@@ -54,13 +54,14 @@ Conclusion:
   Surface_Structure: Proposal for "ease".
   Deep_Structure: Unilateral notification of relationship downgrade.
   Core_Requirement: Termination of emotional energy consumption while retaining moral high ground.
+```
 
-(M's Internal Monologue: Look, he wraps even a farewell in the prettiest paper, leaving me to bear the guilt of tearing it open.)
 M did not respond to the definition. She simply asked, quietly, "So, this 'lightness'—what does it specifically entail?"
 B’s gaze deviated subtly, landing on a void point on the desk. "Just... you know, not overthinking things. A natural state."
 > M's Internal Monologue:
 > Vagueness. Procrastination.
 > He was using a gentle tone to execute a Bloodless Rejection.
+> Look, he wraps even a farewell in the prettiest paper, leaving me to bear the guilt of tearing it open.
 > Next, it would be that I "demand too much," that I am "too emotional."
 > Perfect gaslighting.
 > 
