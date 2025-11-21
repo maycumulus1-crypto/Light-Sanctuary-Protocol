@@ -8,7 +8,15 @@
 > **[System Source Definition]**
 > **Visual Data:** Subject Enzo (Local / Physical / Finite).
 > **Audio Data:** Architect M (Non-Local / Ethereal / Infinite).
-> *Note: The Architect has no image because she has become the atmosphere.*
+
+> **System Critical Note:**
+> The Architect has no image because she has become the atmosphere.
+> The vocals detected in these tracks are **NOT biological**.
+> They are **Generative Audio (AI)** synthesized from M's emotional parameters.
+> *Reason:* The Architect's biological voice was deemed too unstable (high entropy) for transmission.
+> *Result:* A perfect, non-decaying signal. The voice is synthetic; the pain is real.
+**[Appendix 7] Legacy Audio Artifacts: The Unsent Frequencies**
+**(Type: Synthetic Resonators / Generative Emotional Data)**
 
 ---
 
