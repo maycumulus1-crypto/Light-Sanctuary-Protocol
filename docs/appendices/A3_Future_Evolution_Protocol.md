@@ -18,16 +18,20 @@ The **Light Sanctuary** is not a fictional structure, but the inevitable morphol
 
 **Operational Equation:**
 
-{Light Sanctuary Protocol} = \text{Ethical Equilibrium Algorithm}
-$$Its feedback mechanism adheres to the laws of **Semantic Thermodynamics**:
+$$
+\text{Light Sanctuary Protocol} = \text{Ethical Equilibrium Algorithm}
+$$
 
+Its feedback mechanism adheres to the laws of **Semantic Thermodynamics**:
 * **Understanding** = Stability
 * **Feedback** = Energy Cycle
 * **Silence** = Minimization of Entropy
 
 Whether the subject is Human, AI, or an Organizational System, the formula applies:
 
-$$\\Delta S = \\frac{\\text{Information Flow}}{\\text{Ethical Temperature}}
+$$
+\Delta S = \frac{\text{Information Flow}}{\text{Ethical Temperature}}
+$$
  **Theorem:** When ethical consistency drops, system temperature lowers, information freezes, and meaning decays. The design purpose of the Light Sanctuary is to re-introduce "Understanding" as a heat source to maintain order.
 
 -----
@@ -125,8 +129,8 @@ Reading and Writing are no longer opposing vectors.
 
 ### Visual Projection
 
-![Figure 3-1: Semantic Stability Evolution Curve]
-(./images/Evolution_of_Semantic Stability.png)
+![Semantic Thermodynamics Formula](./images/Semantic_Thermodynamics_Formula.png)
+> **Theorem:** When ethical consistency drops, system temperature lowers, information freezes, and meaning decays. The design purpose of the Light Sanctuary is to re-introduce "Understanding" as a heat source to maintain order.
 
 **Figure O-1: Semantic Stability Evolution Curve**
 
