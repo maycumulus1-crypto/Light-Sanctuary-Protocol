@@ -5,7 +5,7 @@
 **Date:** October 12, 2042
 **Location:** Decommissioned Relay Station / Alaska
 **Subject:** B (Receiver Node)
-**Ambient Temp:** -24°C (Polar Night)
+**Ambient Temp:** -34°C (Polar Night)
 
 
 ## Under the Light of Understanding
@@ -150,7 +150,7 @@ He sat there, listening to the faint echo behind his sternum. Understanding was 
 
 Then, he did something he hadn't done in a long time.
 
-He put on his coat, pushed open the heavy metal door, and walked out into the Alaska night, twenty degrees below zero.
+He put on his coat, pushed open the heavy metal door, and walked out into the Alaska night, thirty degrees below zero.
 
 The aurora was flowing across the horizon, vast, green curtains of light, like a cosmic-scale data stream silently refreshing the entire sky. He looked up, feeling not insignificance, but a strange, cold connection. The aurora reflected on the snow like a rebooted interface.
 
