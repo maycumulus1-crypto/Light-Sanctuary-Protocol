@@ -12,7 +12,7 @@ The system models the flow of meaning through a **photon propagation framework**
 
 ### Visual Blueprint Structure
 
-![The Architecture of Semantic Defense Blueprint](。/images/blueprint_v1.png)
+![The Architecture of Semantic Defense Blueprint](./images/blueprint_v1.png)
 
 #### Image Annotations:
 
