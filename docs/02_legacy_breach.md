@@ -5,7 +5,7 @@
 **Date:** October 12, 2042
 **Location:** Decommissioned Relay Station / Alaska
 **Subject:** B (Receiver Node)
-**Ambient Temp:** -34°C (Polar Night)
+**Ambient Temp:** -34F (Polar Night)
 
 
 ## Under the Light of Understanding
