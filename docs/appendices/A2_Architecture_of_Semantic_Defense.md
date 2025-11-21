@@ -8,7 +8,7 @@ The **Light Sanctuary** is structured as a helical layered field, with an autono
 
 The system models the flow of meaning through a **photon propagation framework**. The bilingual structure functions as a linguistic shell preserving the core semantic logic.
 
------
+----
 
 ### Visual Blueprint Structure
 
