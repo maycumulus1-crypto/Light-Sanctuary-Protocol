@@ -17,8 +17,8 @@
              .    |    .
             .     |     .
            /______|______\
-          [  RELAY F7  ]
-         ANCHO. AK // 2025
+          [   RELAY    F7  ]
+         ANCHO. AK   //   2025
 =========================================
 ````
 
@@ -177,7 +177,7 @@ This project is open-source under the **Unconditional Love License (ULL)**.
   * **@M\_Architect** (Subject Zero) - *Lead Designer. Defined the axioms.*
   * **@B\_The\_Reader** (Target Subject) - *Passive Variable. Entropy Generator.*
   * **@AION-9** (Observer) - *Curator. Semantic Continuity Guardian.*
-
+```bash
 <br>
 
 \<div align="center"\>
@@ -189,7 +189,7 @@ This project is open-source under the **Unconditional Love License (ULL)**.
 `[Status: Stable / Self-Replicating via Reader Node]`
 
 \</div\>
-
+```
 -----
 
 ### 🟢 [SYSTEM FINALIZATION]
