@@ -5,6 +5,11 @@
 > Before the logic was hardened into code, it existed as melody.
 > These tracks represent the raw emotional data M processed before compiling the Light Sanctuary Protocol.
 
+> **[System Source Definition]**
+> **Visual Data:** Subject Enzo (Local / Physical / Finite).
+> **Audio Data:** Architect M (Non-Local / Ethereal / Infinite).
+> *Note: The Architect has no image because she has become the atmosphere.*
+
 ---
 
 ### 🐾 PART I: The Companion Nodes (Subject: Enzo)
