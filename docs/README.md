@@ -109,7 +109,7 @@ The operational history of the Light Sanctuary, recorded across time.
 
 ### 🧬 Src / Kernel (System Evolution)
 
-  * **[00\_Genesis\_Log](./docs/00_genesis_log.md)** - *Initial system deployment (2025).*
+  * **[00\_Genesis\_Log](./docs/docs/00_genesis_log.md)** - *Initial system deployment (2025).*
   * **[02\_Legacy\_Breach](./docs/02_legacy_breach.md)** - *System activation events.*
   * **[03\_Inheritance](./docs/03_inheritance.md)** - *Handover protocols to AI curators.*
 
