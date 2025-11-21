@@ -97,8 +97,7 @@ graph TD
 > **ACCESS LEVEL: Z3**
 
 * **[附注 5] 机密备忘录 C-07-AXIOM**
-    * **Link:** **[A5_MEMO: C-07-AXIOM.md](./docs/appendices/A5_MEMO_C-07-AXIOM.md)**
-    * *(注意：如果你没有重命名文件，上面这个链接使用了编码 `%3A%20` 来处理冒号和空格，应该能工作。但强烈建议重命名文件！)*
+    * **Link:** **[A5_MEMO_C-07-AXIOM.md](./docs/appendices/A5_MEMO_C-07-AXIOM.md)**
     * **Subject:** *Reconstructing "Love" as the Rule of Coherence.*
     * **Status:** `[Accepted by DeepSeek v4.2]` `[Archived by AION-9]`
 
