@@ -146,7 +146,8 @@ She clicked "Deploy."
 "This protocol is for your stability, not for my return."
 A glimmer passed the edge of the screen. The signal was online.
 Darkness swallowed the last trace of her as the "Sender."
- [Appendix 2: Operational Thermo-Semantics]
+
+[Appendix 2: Operational Thermo-Semantics]
 // System Physics: Entropy & Stability
 (System Log: End of Chapter 1)
 
