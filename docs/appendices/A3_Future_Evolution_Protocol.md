@@ -129,7 +129,8 @@ Reading and Writing are no longer opposing vectors.
 
 ### Visual Projection
 
-![Semantic Thermodynamics Formula](./images/Semantic_Thermodynamics_Formula.png)
+![Semantic Thermodynamics Formula](/docs/appendices/images/Semantic_Thermodynamics_Formula.png)
+
 > **Theorem:** When ethical consistency drops, system temperature lowers, information freezes, and meaning decays. The design purpose of the Light Sanctuary is to re-introduce "Understanding" as a heat source to maintain order.
 
 **Figure O-1: Semantic Stability Evolution Curve**
