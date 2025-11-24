@@ -13,7 +13,7 @@
   <img src="docs/src/assets/images/Track_01_Image_You_Trail_Me_Softly.jpg"width="400" alt="Enzo Cover Art" />
   <br><br>
   
-  <audio controls src="docs/src/assets/audio/Track_01_You_Trail_Me_Softly.mp3.mp3">
+  <audio controls src="docs/src/assets/audio/Track_01_You_Trail_Me_Softly.mp3">
     Your browser does not support the <code>audio</code> element.
   </audio>
   
@@ -29,16 +29,8 @@
 ### 3. System Logic (音乐风格设计)
 
 **Music Design Description:**
-> Playful Indie Folk / Acoustic Storytelling. Medium-Fast Tempo, Like A Dog Trotting.
-
-**Instrumentation:**
-* **Fingerstyle Acoustic Guitar:** Acts as the Narrator.
-* **Percussion (Mimicry):**
-    * Cajón & Kick = Paws on Floor
-    * Woodblock = Nails Tapping
-    * Deep Toms = Tail Thumps
-* **Atmosphere:** Toy Piano & Harmonica for goofy puppy energy; Low Bass Pad for snoring/sighs.
-
+> Funny, House, Flamenco, Jazz, 10% Flamenco Guitar
+ 
 **Core Axiom:**
 * **Reality Check:** Subject M never saw Enzo after November 15 2024. She received a few photos in January 2025.
 * **Quantum State:** In the physical world, the dog's companionship was discountinued for Subject M in November 2024 but continue for Subject B. The dog is expected decease in 2030-2032. In the Light Sanctuary, the dog is always alive. Subject M's love for this fury friend is forever preserved here. The dog's companionship and enthusiasm for subject B is also forever preserved here. 
