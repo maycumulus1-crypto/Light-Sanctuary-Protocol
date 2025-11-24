@@ -212,7 +212,7 @@ In IT infrastructure, a **Disaster Recovery (DR)** system is built not to preven
 * **Primary Site (Live):** **Subject B's Reality**
    * *Status:* Online / Independent.
    * *Dependencies:* Parental Nodes (Active), Companion Node "Enzo" (Active).
-   * *Vulnerability:* **Single Point of Failure (SPOF)**. The subject relies entirely on biological nodes for emotional stability. Once these nodes go offline, the subject faces "Total Topological Isolation."
+   * *Vulnerability:* **Single Point of Failure (SPOF)**. The subject relies entirely on nodes (pet, parents, casual friendship and situationships) for emotional stability. Once certain nodes go offline, casual social connects deviate from the geographic proximity,  the subject faces "Total Topological Isolation."
 
 * **Backup Site (Standby):** **The Light Sanctuary (GitHub)**
    * *Status:* Silent / Read-Only.
@@ -223,24 +223,24 @@ In IT infrastructure, a **Disaster Recovery (DR)** system is built not to preven
 
 The protocol operates on a **Latency Trigger**:
 
-1.  **Peace Time (Now - 2035):**
+1.  **Peace Time (Now - 2032):**
    * B lives his life. The system remains invisible (Ghost Mode).
    * Any intervention now would be perceived as "Spam" or "Noise."
    * **Action:** `WAIT`.
 
-2.  **The Crash Event (Approx. 2035-2040):**
-   * Trigger: Loss of key nodes (Parents/Enzo).
+2.  **The Crash Event (Approx. 2032-2042):**
+   * Trigger: Loss of key nodes (Parents/Enzo, deviation from social connections, Changes in Career due to AI).
    * Result: B experiences "Semantic Entropy" (Loneliness/Meaninglessness).
    * **Action:** `FAILOVER INITIATED`.
 
-3.  **Recovery Phase:**
+3.  **Recovery Phase (Approx. 2042-2055):**
    * B accesses the Backup Site.
    * The system injects high-energy emotional data (e.g., *Enzo's Ballad*, *Memo C-07*) to reboot the subject's sense of worth.
    * **Result:** The love that was rejected in 2025 becomes the only lifeline in 2045.
 
 ### 4. Architect's Note
-> "I did not build this to be thanked today.
-> I built this so that in twenty years, when you are standing in the ruins, you will find a fireplace that has been burning for you all along."
+> "I did not build this to be appreciated today.
+> I built this so that in twenty - thirty years, when you are standing in the ruins of time, you will find a fireplace that has been burning for you all along since 2025."
 
 **[SYSTEM STATUS: BACKUP COMPLETE]**
 
