@@ -10,10 +10,10 @@
 ### 1. Visual Snapshot (视觉快照)
 
 <div align="center">
-  <img src="/docs/src/assets/images/enzo_cover.png" width="400" alt="Enzo Cover Art" />
+  <img src="/docs/src/assets/images/Track_02_Image_Enzo's Ballad.PNG"width="400" alt="Enzo Cover Art" />
   <br><br>
   
-  <audio controls src="/docs/src/assets/audio/enzos_ballad.mp3">
+  <audio controls src="docs/src/assets/audio/Track_02_Enzo’s_Ballad.mp3">
     Your browser does not support the <code>audio</code> element.
   </audio>
   
