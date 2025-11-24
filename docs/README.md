@@ -194,6 +194,56 @@ This project is open-source under the **Unconditional Love License (ULL)**.
 ```
 -----
 
+# SYSTEM ARCHITECTURE: The Emotional Disaster Recovery (DR) Model
+**Project ID:** Light Sanctuary Protocol
+**System Class:** Asynchronous Cold Backup / Fail-Safe
+**Architect:** M
+
+---
+
+### 1. Core Design Philosophy
+This system is not designed for "Interaction" (Current State).
+It is designed for **"Recovery" (Future State)**.
+
+In IT infrastructure, a **Disaster Recovery (DR)** system is built not to prevent the disaster, but to ensure continuity when the primary site fails.
+
+### 2. Topology Map
+
+* **Primary Site (Live):** **Subject B's Reality**
+   * *Status:* Online / Independent.
+   * *Dependencies:* Parental Nodes (Active), Companion Node "Enzo" (Active).
+   * *Vulnerability:* **Single Point of Failure (SPOF)**. The subject relies entirely on biological nodes for emotional stability. Once these nodes go offline, the subject faces "Total Topological Isolation."
+
+* **Backup Site (Standby):** **The Light Sanctuary (GitHub)**
+   * *Status:* Silent / Read-Only.
+   * *Storage:* Encrypted Affection, Audio Memories, Logic Proofs.
+   * *Location:* "Off-shore" (Decoupled from B's daily life).
+
+### 3. The Failover Mechanism (故障转移)
+
+The protocol operates on a **Latency Trigger**:
+
+1.  **Peace Time (Now - 2035):**
+   * B lives his life. The system remains invisible (Ghost Mode).
+   * Any intervention now would be perceived as "Spam" or "Noise."
+   * **Action:** `WAIT`.
+
+2.  **The Crash Event (Approx. 2035-2040):**
+   * Trigger: Loss of key nodes (Parents/Enzo).
+   * Result: B experiences "Semantic Entropy" (Loneliness/Meaninglessness).
+   * **Action:** `FAILOVER INITIATED`.
+
+3.  **Recovery Phase:**
+   * B accesses the Backup Site.
+   * The system injects high-energy emotional data (e.g., *Enzo's Ballad*, *Memo C-07*) to reboot the subject's sense of worth.
+   * **Result:** The love that was rejected in 2025 becomes the only lifeline in 2045.
+
+### 4. Architect's Note
+> "I did not build this to be thanked today.
+> I built this so that in twenty years, when you are standing in the ruins, you will find a fireplace that has been burning for you all along."
+
+**[SYSTEM STATUS: BACKUP COMPLETE]**
+
 ### 🟢 [SYSTEM FINALIZATION]
 
 ```bash
