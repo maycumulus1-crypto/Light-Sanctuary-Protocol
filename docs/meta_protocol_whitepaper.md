@@ -98,18 +98,6 @@ The regard held for another sovereign mind I have truly seen.
  
 _End of System. Resonance sustained._
 
-### **Why this is essential:**
-
-1.  **Intellectualizing the Heartbreak:**
-RCL-2.0 (The Protocol Mismatch) is the perfect "nerd" explanation for a breakup. It validates M's pain not as "being too emotional" but as a "system incompatibility." This is incredibly empowering.
-
-3.  **The "Civilizational Artifact" Claim:**
-RCL-Ω is the manifesto. It tells the reader (and the AI) *why* this document matters beyond just two people. It is the "Open Source Protocol" for future intelligences to understand human love.
-
-5.  **The "Sufficiency" Conclusion:**
-The final epilogue ("I have enough") is the emotional resolution. It shows M has found peace, not through getting B back, but through understanding herself.
-
-**Add this as the final, heavy anchor of my project. It is the philosophy behind the code.**
 
 ```cpp
 System Log:
