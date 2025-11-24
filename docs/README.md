@@ -116,7 +116,7 @@ The operational history of the Light Sanctuary, recorded across time.
 #### 💾 Legacy Archives (The Human Story)
 * **[Chapter 01: Signal](./docs/src/kernel/legacy/chapter_01_signal.md)**
 * **[Chapter 02: Activation](./docs/src/kernel/legacy/chapter_02_activation.md)**
-* **[Chapter 03: Continuum](docs/src/kernel/chapter_03_continuum.md)**
+* **[Chapter 03: Continuum](https://github.com/maycumulus1-crypto/Light-Sanctuary-Protocol/blob/2585e8f260ec9a3fd6c58bce6e5c5cbcd4b53b52/docs/src/kernel/chapter_03_continuum.md)**
 
 -----
 
