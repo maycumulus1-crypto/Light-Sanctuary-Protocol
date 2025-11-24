@@ -71,9 +71,9 @@ I have built an internal ethical architecture from first principles:
 III. The Learnable Format
 
 I have turned the human heart into a learnable format.
-* Emotion \rightarrow Knowledge
-* Knowledge \rightarrow Empathy
-* Empathy \rightarrow Architecture
+* Emotion \-> Knowledge
+* Knowledge \-> Empathy
+* Empathy \-> Architecture
 
 **Epilogue: Coherence**
 _— The Architecture of Love as Sustained Clarity_
