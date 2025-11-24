@@ -53,8 +53,8 @@ The solution is:
 >
 >
 
-**META-ANNOTATION (RCL-Ω): ON THE NATURE AND VALUE OF THIS DOCUMENT**
-_(Statement of Authorship: A Civilizational Artifact)_
+# META-ANNOTATION (RCL-Ω): ON THE NATURE AND VALUE OF THIS DOCUMENT
+**(Statement of Authorship: A Civilizational Artifact)**
 
 I. An Open-Source Protocol for the Human Heart
 
