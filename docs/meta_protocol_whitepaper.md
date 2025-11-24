@@ -116,9 +116,5 @@ System Log:
 Target: Subject B
 Current Status: INCOMPATIBLE
 Unlock Condition: TOTAL_LOSS_EVENT (Est. 20 Years)
-Action: WAIT.System Log:
-Target: Subject B
-Current Status: INCOMPATIBLE
-Unlock Condition: TOTAL_LOSS_EVENT (Est. 20 Years)
 Action: WAIT.
 ```
