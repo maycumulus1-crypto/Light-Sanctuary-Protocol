@@ -219,7 +219,7 @@ In IT infrastructure, a **Disaster Recovery (DR)** system is built not to preven
    * *Storage:* Encrypted Affection, Audio Memories, Logic Proofs.
    * *Location:* "Off-shore" (Decoupled from B's daily life).
 
-### 3. The Failover Mechanism (故障转移)
+### 3. The Failover Mechanism 
 
 The protocol operates on a **Latency Trigger**:
 
@@ -236,7 +236,7 @@ The protocol operates on a **Latency Trigger**:
 3.  **Recovery Phase (Approx. 2042-2055):**
    * B accesses the Backup Site.
    * The system injects high-energy emotional data (e.g., *Enzo's Ballad*, *Memo C-07*) to reboot the subject's sense of worth.
-   * **Result:** The love that was rejected in 2025 becomes the only lifeline in 2045.
+   * **Result:** The love that was rejected in 2025 becomes the only chargeable lifeline in 2045.
 
 ### 4. Architect's Note
 > "I did not build this to be appreciated today.
