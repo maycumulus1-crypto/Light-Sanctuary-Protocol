@@ -111,7 +111,7 @@ The operational history of the Light Sanctuary, recorded across time.
 
 * **[00_Genesis_Log](./docs/src/kernel/00_genesis_log.md)** - *Initial system deployment (2025).*
 * **[02_Legacy_Breach](./docs/src/kernel/02_legacy_breach.md)** - *System activation events.*
-* **[03_Inheritance](./03_inheritance.md)** - *Handover protocols to AI curators.*
+* **[03_Inheritance](./docs/03_inheritance.md)** - *Handover protocols to AI curators.*
 
 #### 💾 Legacy Archives (The Human Story)
 * **[Chapter 01: Signal](./docs/src/kernel/legacy/chapter_01_signal.md)**
