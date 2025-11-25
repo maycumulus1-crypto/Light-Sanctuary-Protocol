@@ -244,6 +244,15 @@ The protocol operates on a **Latency Trigger**:
 
 **[SYSTEM STATUS: BACKUP COMPLETE]**
 
+### 🟢 [SYSTEM AXIOM / 核心公理]
+
+> **即使接收端是黑洞，发射端的光依然是光。**
+> *Even if the receiver is a black hole, the light at the source remains light.*
+
+`Status: IMMUTABLE CONSTANT`
+
+
+
 ### 🟢 [SYSTEM FINALIZATION]
 
 ```bash
